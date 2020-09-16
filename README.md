@@ -1,6 +1,6 @@
 <div align="center">
     <h2>Hey, I am <strong>TrAyZeN</strong> 🚀</h2>
-    <img src="assets/grimfandango.gif" />
+    <img src="https://github.com/TrAyZeN/TrAyZeN/blob/master/assets/grimfandango.gif?raw=true" />
 </div>
 
 **About me ✨**
