@@ -3,7 +3,6 @@
     <img src="https://github.com/TrAyZeN/TrAyZeN/blob/master/assets/grimfandango.gif?raw=true" />
 </div>
 
-
 <br />
 
 **About me ✨**
@@ -14,7 +13,6 @@
 
 If you want to know more:
 > [You can find my portfolio here 🌌](https://trayzen.xyz)
-<br />
 
 **Language and tools ‍🔧**
 <div>
