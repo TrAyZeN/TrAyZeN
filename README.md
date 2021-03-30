@@ -3,12 +3,15 @@
     <img src="https://github.com/TrAyZeN/TrAyZeN/blob/master/assets/grimfandango.gif?raw=true" />
 </div>
 
+
 <br />
 
 **About me ✨**
 
-I am a self-taught developer currently studying [@EPITA]().  
-I love to learn new things and to create.  
+- 💻 I am a self-taught developer currently studying [@EPITA]()
+- 📚 I love sciences and I love to learn new things
+- 🔧 I like to build things
+
 If you want to know more:
 > [You can find my portfolio here 🌌](https://trayzen.xyz)
 <br />
@@ -31,6 +34,4 @@ If you want to know more:
 
 **Some stats 📈**
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=trayzen&count_private=true&theme=vision-friendly-dark" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=trayzen&count_private=true&theme=vision-friendly-dark" />
