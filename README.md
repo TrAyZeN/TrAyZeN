@@ -6,10 +6,13 @@
 
 **About me ✨**
 
-- 💻 I am a self-taught developer currently studying [@EPITA]()
-- 📚 I love sciences and to learn new things
-- 🔧 I like to build useless things
+- 💻 Self-taught developer currently studying [@EPITA]()
+- 🌐 Frontend/backend developper
+- ⚙️ Low-level developper
+- 🧰 Interest in better development tools and practices
+- ⛓️ Cryptography learner
 - 📕 C/Rust teacher assistant
+
 
 If you want to know more:
 > [You can find my portfolio here 🌟](https://trayzen.xyz)
