@@ -6,15 +6,13 @@
 
 **About me ✨**
 
-- 💻 Self-taught developer currently studying [@EPITA]()
-- 🌐 Frontend/backend developper
 - ⚙️ Low-level developper
 - 🧰 Interest in better development tools and practices
-- ⛓️ Cryptography learner
-- 📕 C/Rust teacher assistant
+- 🌐 Notions of frontend/backend web development
+- ⛓️ Learning cryptography
 
 
-If you want to know more:
+If you want to know more about me:
 > [You can find my portfolio here 🌟](https://trayzen.xyz)
 
 **Languages and tools ‍🔧**
